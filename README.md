@@ -2,7 +2,7 @@
 
 ***
 
-## 문제 해결 능력 (Problem-Solving Skills)
+## **문제 해결** (Problem-Solving)
 
 * ### **문제 해결 기초** (Basics of Problem Solving)
 
