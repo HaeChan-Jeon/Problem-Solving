@@ -1,5 +1,7 @@
 # Soft Skills
 
+"problem-solving" repository is a collection of writings composed to cultivate problem-solving skills.
+
 ***
 
 ## **문제 해결** (Problem-Solving)
