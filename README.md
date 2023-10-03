@@ -1,6 +1,6 @@
 # Soft Skills
 
-"problem-solving" repository is a collection of writings composed to cultivate problem-solving skills.
+The "problem-solving" repository is a collection of writings composed to cultivate problem-solving skills.
 
 ***
 
