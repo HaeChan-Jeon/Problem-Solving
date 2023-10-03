@@ -2,6 +2,10 @@
 
 The "problem-solving" repository is a collection of writings composed to cultivate problem-solving skills.
 
+<p align="center">
+ <img src = "https://github.com/HaeChan-Jeon/problem-solving/assets/146603024/78340af7-b956-4fba-b3d6-6732220e9452", height="500x", width="500px">
+</p>
+
 ***
 
 ## **문제 해결** (Problem-Solving)
